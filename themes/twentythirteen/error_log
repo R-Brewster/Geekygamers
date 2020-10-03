@@ -1,0 +1,4 @@
+[01-May-2020 15:20:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xko9wyib0lzs/public_html/wp-content/themes/twentythirteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/xko9wyib0lzs/public_html/wp-content/themes/twentythirteen/404.php on line 10

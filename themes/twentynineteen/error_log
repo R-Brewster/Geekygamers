@@ -1,0 +1,5 @@
+[30-May-2020 14:32:28 UTC] PHP Notice:  Undefined index: wp_version in /home/xko9wyib0lzs/public_html/wp-content/themes/twentynineteen/functions.php on line 15
+[30-May-2020 14:32:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/xko9wyib0lzs/public_html/wp-content/themes/twentynineteen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xko9wyib0lzs/public_html/wp-content/themes/twentynineteen/functions.php on line 16
